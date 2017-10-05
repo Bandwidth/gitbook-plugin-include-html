@@ -1,19 +1,22 @@
 {
-    "name": "gitbook-plugin-md-include",
-    "description": "Plugin for Gitbook which inserts external files into the books Markdown.",
-    "author": "Bo Marchman <bo.marchman@gmail.com>",
+    "name": "gitbook-plugin-include-html",
+    "description": "Plugin for Gitbook which inserts external HTML files into the rendered HTML page",
+    "author": [
+        "Bo Marchman <bo.marchman@gmail.com>",
+        "Dan Tolbert <danielptolbert@gmail.com>"
+    ],
     "main": "index.js",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "gitbook": "*"
     },
     "dependencies": {
-	"q": "*"
+        "q": "*"
     },
-    "homepage": "https://github.com/rlmv/gitbook-plugin-md-include",
+    "homepage": "https://github.com/dtolb/gitbook-plugin-include-html",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rlmv/gitbook-plugin-md-include.git"
+        "url": "https://github.com/dtolb/gitbook-plugin-include-html.git"
     },
-    "bugs": "https://github.com/rlmv/gitbook-plugin-md-include/issues"
+    "bugs": "https://github.com/dtolb/gitbook-plugin-include-html/issues"
 }

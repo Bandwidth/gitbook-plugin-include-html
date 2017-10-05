@@ -1,5 +1,6 @@
-# gitbook-plugin-include
+# gitbook-plugin-include-html
 
+✳️✳️ Forked from [gitbook-plugin-include](https://github.com/rlmv/gitbook-plugin-include) ✳️✳️
 Preprocess your Markdown files, replacing all instances of
 
 ```
