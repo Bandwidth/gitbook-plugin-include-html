@@ -16,7 +16,7 @@ With the contents of the specified file. The file can be a multi-level path.  Th
 Add to your `book.json` plugin list:
 ```
 {
-    "plugins" : [ "include" ],
+    "plugins" : [ "include-html" ],
 }
 ```
 
