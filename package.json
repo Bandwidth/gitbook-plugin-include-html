@@ -13,10 +13,10 @@
     "dependencies": {
         "q": "*"
     },
-    "homepage": "https://github.com/dtolb/gitbook-plugin-include-html",
+    "homepage": "https://github.com/Bandwidth/gitbook-plugin-include-html",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dtolb/gitbook-plugin-include-html.git"
+        "url": "https://github.com/Bandwidth/gitbook-plugin-include-html.git"
     },
-    "bugs": "https://github.com/dtolb/gitbook-plugin-include-html/issues"
+    "bugs": "https://github.com/Bandwidth/gitbook-plugin-include-html/issues"
 }
